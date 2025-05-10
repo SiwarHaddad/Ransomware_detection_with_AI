@@ -1,0 +1,13 @@
+EDUCATIONAL DEMO FILE - NOT ACTUAL MALWARE
+==================================================
+
+[This file represents a benign executable]
+Characteristics common in legitimate software:
+- Proper debug information
+- Standard version numbers
+- Normal export tables
+- Typical section count
+- Standard characteristics
+
+Created: 2025-05-07 14:33:43
+Educational purposes only.

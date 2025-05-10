@@ -1,0 +1,13 @@
+EDUCATIONAL DEMO FILE - NOT ACTUAL MALWARE
+==================================================
+
+[This file represents what malware might look like]
+Characteristics that might be present in malicious files:
+- Small or missing debug information
+- Unusual version numbers
+- Large export tables
+- Multiple sections
+- Suspicious characteristics flags
+
+Created: 2025-05-07 14:33:42
+Educational purposes only.

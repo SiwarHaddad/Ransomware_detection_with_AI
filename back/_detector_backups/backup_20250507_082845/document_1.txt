@@ -1,0 +1,3 @@
+This is a legitimate text document 1.
+It contains normal text that wouldn't be associated with ransomware.
+Created on: 2025-05-06 17:00:21

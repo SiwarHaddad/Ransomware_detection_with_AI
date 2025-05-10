@@ -1,0 +1,352 @@
+2025-05-06 13:15:51,425 - INFO - Starting educational ransomware simulation...
+2025-05-06 13:15:51,427 - INFO - Creating 3 sample benign files...
+2025-05-06 13:15:51,427 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 13:15:51,428 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 13:15:51,428 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 13:15:51,429 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 13:15:52,430 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 13:15:52,446 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 13:15:52,948 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 13:15:52,952 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 13:15:53,990 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 13:15:54,513 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 13:15:55,032 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 13:15:55,554 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 13:15:55,555 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 13:15:55,555 - INFO - Educational simulation completed.
+2025-05-06 13:17:29,008 - INFO - Starting educational ransomware simulation...
+2025-05-06 13:17:29,008 - INFO - Creating 3 sample benign files...
+2025-05-06 13:17:29,009 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 13:17:29,009 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 13:17:29,010 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 13:17:29,010 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 13:17:30,013 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 13:17:30,014 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 13:17:30,515 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 13:17:30,517 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 13:17:31,545 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 13:17:32,065 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 13:17:32,593 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 13:17:33,111 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 13:17:33,112 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 13:17:33,112 - INFO - Educational simulation completed.
+2025-05-06 13:43:23,784 - INFO - Starting educational ransomware simulation...
+2025-05-06 13:43:23,784 - INFO - Creating 3 sample benign files...
+2025-05-06 13:43:23,799 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 13:43:23,800 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 13:43:23,801 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 13:43:23,801 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 13:43:24,803 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 13:43:24,805 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 13:43:25,308 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 13:43:25,309 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 13:43:26,338 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 13:43:26,864 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 13:43:27,384 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 13:43:27,905 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 13:43:27,909 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 13:43:27,909 - INFO - Educational simulation completed.
+2025-05-06 13:43:39,278 - INFO - Starting educational ransomware simulation...
+2025-05-06 13:43:39,279 - INFO - Creating 3 sample benign files...
+2025-05-06 13:43:39,280 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 13:43:39,281 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 13:43:39,281 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 13:43:39,282 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 13:43:40,284 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 13:43:40,288 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 13:43:40,368 - INFO - Starting educational ransomware simulation...
+2025-05-06 13:43:40,368 - INFO - Creating 3 sample benign files...
+2025-05-06 13:43:40,369 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 13:43:40,370 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 13:43:40,370 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 13:43:40,371 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 13:43:40,642 - INFO - Starting educational ransomware simulation...
+2025-05-06 13:43:40,643 - INFO - Creating 3 sample benign files...
+2025-05-06 13:43:40,643 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 13:43:40,644 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 13:43:40,644 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 13:43:40,644 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 13:43:40,791 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 13:43:40,792 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 13:43:41,372 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 13:43:41,374 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 13:43:41,647 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 13:43:41,648 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 13:43:41,817 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 13:43:41,876 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 13:43:41,877 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 13:43:42,150 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 13:43:42,151 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 13:43:42,349 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 13:43:42,872 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 13:43:42,881 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 13:43:43,156 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 13:43:43,383 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 13:43:43,393 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 13:43:43,395 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 13:43:43,395 - INFO - Educational simulation completed.
+2025-05-06 13:43:43,660 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 13:43:43,886 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 13:43:44,163 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 13:43:44,390 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 13:43:44,392 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 13:43:44,392 - INFO - Educational simulation completed.
+2025-05-06 13:43:44,666 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 13:43:44,667 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 13:43:44,667 - INFO - Educational simulation completed.
+2025-05-06 17:02:09,292 - INFO - Starting educational ransomware simulation...
+2025-05-06 17:02:09,292 - INFO - Creating 3 sample benign files...
+2025-05-06 17:02:09,293 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 17:02:09,293 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 17:02:09,294 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 17:02:09,295 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 17:02:10,296 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 17:02:10,297 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 17:02:10,799 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 17:02:10,801 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 17:02:11,823 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 17:02:12,347 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 17:02:12,868 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 17:02:13,389 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 17:02:13,390 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 17:02:13,390 - INFO - Educational simulation completed.
+2025-05-06 17:02:21,337 - INFO - Starting educational ransomware simulation...
+2025-05-06 17:02:21,337 - INFO - Creating 3 sample benign files...
+2025-05-06 17:02:21,337 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 17:02:21,338 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 17:02:21,338 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 17:02:21,339 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 17:02:22,340 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 17:02:22,341 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 17:02:22,842 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 17:02:22,843 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 17:02:23,872 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 17:02:24,396 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 17:02:24,921 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 17:02:25,438 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 17:02:25,438 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 17:02:25,438 - INFO - Educational simulation completed.
+2025-05-06 17:18:54,223 - INFO - Starting educational ransomware simulation...
+2025-05-06 17:18:54,224 - INFO - Creating 3 sample benign files...
+2025-05-06 17:18:54,224 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 17:18:54,225 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 17:18:54,225 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 17:18:54,226 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 17:18:55,228 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 17:18:55,230 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 17:18:55,733 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 17:18:55,735 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 17:18:56,763 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 17:18:57,289 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 17:18:57,813 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 17:18:58,325 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 17:18:58,325 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 17:18:58,325 - INFO - Educational simulation completed.
+2025-05-06 17:19:01,688 - INFO - Starting educational ransomware simulation...
+2025-05-06 17:19:01,688 - INFO - Creating 3 sample benign files...
+2025-05-06 17:19:01,689 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-06 17:19:01,689 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-06 17:19:01,689 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-06 17:19:01,690 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-06 17:19:02,692 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-06 17:19:02,694 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-06 17:19:03,195 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-06 17:19:03,196 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-06 17:19:04,224 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-06 17:19:04,751 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-06 17:19:05,276 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-06 17:19:05,798 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-06 17:19:05,800 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-06 17:19:05,800 - INFO - Educational simulation completed.
+2025-05-07 08:13:12,617 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:13:12,617 - INFO - Creating 3 sample benign files...
+2025-05-07 08:13:12,618 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:13:12,618 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:13:12,619 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:13:12,619 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:13:13,621 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:13:13,621 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:13:14,123 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:13:14,135 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:13:15,166 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:13:15,685 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:13:16,220 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:13:16,752 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:13:16,754 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:13:16,754 - INFO - Educational simulation completed.
+2025-05-07 08:13:23,212 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:13:23,212 - INFO - Creating 3 sample benign files...
+2025-05-07 08:13:23,213 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:13:23,213 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:13:23,213 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:13:23,214 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:13:24,216 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:13:24,217 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:13:24,719 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:13:24,719 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:13:25,745 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:13:26,267 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:13:26,787 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:13:27,310 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:13:27,311 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:13:27,312 - INFO - Educational simulation completed.
+2025-05-07 08:19:44,932 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:19:44,932 - INFO - Creating 3 sample benign files...
+2025-05-07 08:19:44,933 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:19:44,933 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:19:44,933 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:19:44,934 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:19:45,936 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:19:45,937 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:19:46,439 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:19:46,440 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:19:47,461 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:19:47,984 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:19:48,509 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:19:49,023 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:19:49,024 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:19:49,024 - INFO - Educational simulation completed.
+2025-05-07 08:19:55,199 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:19:55,200 - INFO - Creating 3 sample benign files...
+2025-05-07 08:19:55,200 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:19:55,201 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:19:55,201 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:19:55,201 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:19:56,202 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:19:56,205 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:19:56,705 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:19:56,706 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:19:57,730 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:19:58,247 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:19:58,765 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:19:59,288 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:19:59,289 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:19:59,289 - INFO - Educational simulation completed.
+2025-05-07 08:21:52,489 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:21:52,489 - INFO - Creating 3 sample benign files...
+2025-05-07 08:21:52,489 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:21:52,490 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:21:52,490 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:21:52,491 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:21:53,494 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:21:53,495 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:21:53,998 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:21:54,000 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:21:55,022 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:21:55,148 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:21:55,148 - INFO - Creating 3 sample benign files...
+2025-05-07 08:21:55,149 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:21:55,149 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:21:55,149 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:21:55,150 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:21:55,545 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:21:56,065 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:21:56,152 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:21:56,152 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:21:56,585 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:21:56,586 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:21:56,587 - INFO - Educational simulation completed.
+2025-05-07 08:21:56,656 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:21:56,657 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:21:57,677 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:21:58,179 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:21:58,681 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:21:59,183 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:21:59,184 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:21:59,184 - INFO - Educational simulation completed.
+2025-05-07 08:22:01,988 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:22:01,988 - INFO - Creating 3 sample benign files...
+2025-05-07 08:22:01,988 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt
+2025-05-07 08:22:01,989 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt
+2025-05-07 08:22:01,989 - INFO - Created sample text file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt
+2025-05-07 08:22:01,989 - INFO - Created sample config file: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini
+2025-05-07 08:22:02,991 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:22:02,992 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:22:03,494 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:22:03,495 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:22:04,512 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_0.txt.demo
+2025-05-07 08:22:05,033 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_1.txt.demo
+2025-05-07 08:22:05,554 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_document_2.txt.demo
+2025-05-07 08:22:06,085 - INFO - Simulated transformation on: C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini -> C:\Users\siwar\Desktop\all\back\ransomware_education\sample_config.ini.demo
+2025-05-07 08:22:06,086 - INFO - Educational note created: C:\Users\siwar\Desktop\all\back\ransomware_education\EDUCATIONAL_RANSOMWARE_INFO.txt
+2025-05-07 08:22:06,086 - INFO - Educational simulation completed.
+2025-05-07 08:35:19,406 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:35:20,407 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:35:20,409 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:35:20,909 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:35:20,910 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:40:06,511 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:40:07,514 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:40:07,515 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:40:08,017 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:40:08,018 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:59:28,328 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:59:29,331 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:59:29,332 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:59:29,835 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:59:29,836 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 08:59:34,871 - INFO - Starting educational ransomware simulation...
+2025-05-07 08:59:35,874 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 08:59:35,874 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 08:59:36,377 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 08:59:36,379 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 10:19:44,522 - INFO - Starting educational ransomware simulation...
+2025-05-07 10:19:45,523 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 10:19:45,525 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 10:19:46,029 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 10:19:46,030 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 10:19:51,548 - INFO - Starting educational ransomware simulation...
+2025-05-07 10:19:52,550 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 10:19:52,551 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 10:19:53,053 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 10:19:53,054 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 10:25:59,326 - INFO - Starting educational ransomware simulation...
+2025-05-07 10:26:00,330 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 10:26:00,331 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 10:26:00,832 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 10:26:00,835 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 10:26:06,808 - INFO - Starting educational ransomware simulation...
+2025-05-07 10:26:07,813 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 10:26:07,814 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 10:26:08,315 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 10:26:08,317 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 10:38:01,627 - INFO - Starting educational ransomware simulation...
+2025-05-07 10:38:02,631 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 10:38:02,632 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 10:38:03,134 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 10:38:03,135 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 10:38:07,815 - INFO - Starting educational ransomware simulation...
+2025-05-07 10:38:08,818 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 10:38:08,819 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 10:38:09,320 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 10:38:09,331 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 11:38:48,277 - INFO - Starting educational ransomware simulation...
+2025-05-07 11:38:49,284 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 11:38:49,285 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 11:38:49,787 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 11:38:49,788 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 11:38:50,449 - INFO - Starting educational ransomware simulation...
+2025-05-07 11:38:51,450 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 11:38:51,451 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 11:38:51,736 - INFO - Starting educational ransomware simulation...
+2025-05-07 11:38:51,955 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 11:38:51,956 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 11:38:52,737 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 11:38:52,738 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 11:38:53,240 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 11:38:53,240 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 11:39:01,136 - INFO - Starting educational ransomware simulation...
+2025-05-07 11:39:02,138 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 11:39:02,139 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 11:39:02,641 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 11:39:02,644 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 14:33:38,350 - INFO - Starting educational ransomware simulation...
+2025-05-07 14:33:39,352 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 14:33:39,354 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 14:33:39,856 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 14:33:39,857 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt
+2025-05-07 14:33:41,988 - INFO - Starting educational ransomware simulation...
+2025-05-07 14:33:42,990 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_0.txt
+2025-05-07 14:33:42,991 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_0.txt
+2025-05-07 14:33:43,493 - INFO - Created benign demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\benign_example_1.txt
+2025-05-07 14:33:43,493 - INFO - Created simulation malicious demo file: C:\Users\siwar\Desktop\all\back\ransomware_education\malicious_example_1.txt

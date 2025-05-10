@@ -1,0 +1,30 @@
+@startuml test 
+actor Juge
+actor Expert_Judiciaire
+actor Avocat
+actor Détective
+actor Administrateur
+
+Juge --> (Soumettre_image)
+Juge --> (Consulter_rapport)
+Juge --> (Accéder_historique)
+
+Expert_Judiciaire --> (Soumettre_image)
+Expert_Judiciaire --> (Personnaliser_analyse)
+Expert_Judiciaire --> (Annoter_rapport)
+
+Avocat --> (Soumettre_image)
+Avocat --> (Consulter_rapport)
+Avocat --> (Télécharger_rapport)
+Avocat --> (Partager_rapport)
+
+Détective --> (Soumettre_image)
+Détective --> (Consulter_rapport)
+Détective --> (Télécharger_rapport)
+Détective --> (Partager_rapport)
+
+Administrateur --> (Gérer_utilisateurs)
+Administrateur --> (Surveiller_performances)
+Administrateur --> (Consulter_logs)
+
+@enduml
